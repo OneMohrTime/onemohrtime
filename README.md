@@ -22,4 +22,15 @@ A bit about me: I’m a full-stack web developer at Mighty, and midnight graphic
 
 ### Stats of irrelavance
 
+<div style="display: flex; justify-content: space-between; width: 100%">
+<div style="max-width: 40%; height: 100%;">
+   
+[![Derek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onemohrtime)](https://github.com/onemohrtime/github-readme-stats)
+
+</div>
+<div style="max-width: 60%; height: 100%;">
+   
 [![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=onemohrtime)](https://github.com/onemohrtime/github-readme-stats)
+
+</div>
+</div>
