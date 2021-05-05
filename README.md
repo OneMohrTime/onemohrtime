@@ -1,14 +1,23 @@
-```
-   ___             __  __       _         _____ _                
-  / _ \ _ __   ___|  \/  | ___ | |__  _ _|_   _(_)_ __ ___   ___ 
- | | | | '_ \ / _ \ |\/| |/ _ \| '_ \| '__|| | | | '_ ` _ \ / _ \
- | |_| | | | |  __/ |  | | (_) | | | | |   | | | | | | | | |  __/
-  \___/|_| |_|\___|_|  |_|\___/|_| |_|_|   |_| |_|_| |_| |_|\___|
-                                                                 
-```
-## developer for <a href="https://github.com/mightyinthemidwest/">@mightyinthemidwest</a> by day,<br/><a href="https://onemohrti.me/topics/travel/" target="_blank">traveling</a> designer by night
+# Developer for [@mightyinthemidwest](https://github.com/mightyinthemidwest/) by day,<br/>[Traveling](https://onemohrti.me/travel/) designer by night
 
-A bit about me: I’m a full-stack web developer at Mighty, and midnight graphic designer at home in a pandemic; and I’m based out of Grand Rapids, MI. I tend to refer to “about me” as a Designer/Developer, as I am fully versed in the latest front-end specs (even some back-end ones), browser compatibility [meaning, making things appear correctly on IE-anything], and mobile device compatibility. Or to be more specific:
+```
+ ██████╗ ███╗   ██╗███████╗███╗   ███╗ ██████╗ ██╗  ██╗██████╗ ████████╗██╗   ███╗   ███╗███████╗
+██╔═══██╗████╗  ██║██╔════╝████╗ ████║██╔═══██╗██║  ██║██╔══██╗╚══██╔══╝██║   ████╗ ████║██╔════╝
+██║   ██║██╔██╗ ██║█████╗  ██╔████╔██║██║   ██║███████║██████╔╝   ██║   ██║   ██╔████╔██║█████╗
+██║   ██║██║╚██╗██║██╔══╝  ██║╚██╔╝██║██║   ██║██╔══██║██╔══██╗   ██║   ██║   ██║╚██╔╝██║██╔══╝
+╚██████╔╝██║ ╚████║███████╗██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║   ██║   ██║██╗██║ ╚═╝ ██║███████╗
+ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝╚═╝     ╚═╝╚══════╝
+---
+find me at mighty most days : https://mightyinthemidwest.com/
+---
+fine me online otherwise:   : https://dribbble.com/OneMohrTime/
+                            : https://github.com/OneMohrTime/
+                            : https://instagram.com/onemohrtimedesign/
+```
+
+A bit about me: I’m a full-stack web developer at Mighty, and BFA graphic designer. I’m based out of Grand Rapids, MI. I tend to refer to my title as a **Designer/Developer**, as I am fully versed in the latest front-end specs (even some back-end ones). I focus heavily on browser compatibility, mobile device compatibility, and web accessibility.
+
+#### Web Languages
 
 - Markup-related: Twig (Craft CMS, Timber), HTML, PHP
 - Style-related: SCSS, LESS, Sass
@@ -18,19 +27,23 @@ A bit about me: I’m a full-stack web developer at Mighty, and midnight graphic
 
 ### Links of relevance
 
-<a href="https://onemohrti.me/" rel="nofollow">Website</a> | <a href="https://dribbble.com/onemohrtime/" rel="nofollow">Dribbble</a> | <a href="https://www.instagram.com/onemohrtimedesign/" rel="nofollow">Instagram</a> | <a href="https://twitter.com/OneMohrTime" rel="nofollow">Twitter</a>
+- My Website: [https://onemohrti.me/](https://onemohrti.me/)
+- Mighty in the Midwest: [https://mightyinthemidwest.com/](https://mightyinthemidwest.com/)
+- Dribbble: [https://dribbble.com/onemohrtime/](https://dribbble.com/onemohrtime/)
+- Instagram: [https://www.instagram.com/onemohrtimedesign/](https://www.instagram.com/onemohrtimedesign/)
+- Twitter: [https://twitter.com/OneMohrTime](https://twitter.com/OneMohrTime)
 
 ### Stats of irrelavance
 
-<div style="display: flex; justify-content: space-between; width: 100%">
-<div style="max-width: 40%; height: 100%;">
-   
-[![Derek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onemohrtime)](https://github.com/onemohrtime/github-readme-stats)
+<div style="display: flex; justify-content: space-between; width: 100%;">
+   <div style="flex: 0 1 40%; display: flex;">
 
-</div>
-<div style="max-width: 60%; height: 100%;">
-   
-[![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=onemohrtime)](https://github.com/onemohrtime/github-readme-stats)
+   [![Derek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onemohrtime)](https://github.com/onemohrtime/github-readme-stats)
 
-</div>
+   </div>
+   <div style="flex: 0 1 60%; display: flex;">
+
+   [![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=onemohrtime)](https://github.com/onemohrtime/github-readme-stats)
+
+   </div>
 </div>
