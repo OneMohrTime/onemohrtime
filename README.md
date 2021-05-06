@@ -19,7 +19,7 @@ fine me online otherwise:   : https://dribbble.com/OneMohrTime/
 
 A bit about me: I’m a full-stack web developer at Mighty, and BFA graphic designer. I’m based out of Grand Rapids, MI. I tend to refer to my title as a **Designer/Developer**, as I am fully versed in the latest front-end specs (even some back-end ones). I focus heavily on browser compatibility, mobile device compatibility, and web accessibility.
 
-#### Web Languages
+### Web Languages
 
 - Markup-related: [Twig](https://twig.symfony.com/) ([Craft CMS](https://craftcms.com/), [Timber](https://upstatement.com/timber/)), [HTML](https://html.spec.whatwg.org/), [PHP](https://www.php.net/)
 - Style-related: [SCSS](https://sass-lang.com/), [LESS](https://lesscss.org/)
@@ -39,7 +39,7 @@ A bit about me: I’m a full-stack web developer at Mighty, and BFA graphic desi
 
 <div style="width: 100%;">
    <a href="https://github.com/anuraghazra/github-readme-stats">
-       <img align="center" src="https://github-readme-stats.vercel.app/api?username=onemohrtime&hide=stars&count_private=true&show_icons=true&title_color=ffc300&text_color=171401&border_color=171401&icon_color=ffc300" />
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=onemohrtime&hide=stars&count_private=true&show_icons=true" />
    </a>
    <a href="https://github.com/anuraghazra/convoychat">
        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onemohrtime&layout=compact&hide=vue,php" />
