@@ -1,5 +1,7 @@
 # Developer for [@mightyinthemidwest](https://github.com/mightyinthemidwest/) by day,<br/>[Traveling](https://onemohrti.me/travel/) designer by night
 
+![](https://komarev.com/ghpvc/?username=onemohrtime&color=ffc300)
+
 ```
  ██████╗ ███╗   ██╗███████╗███╗   ███╗ ██████╗ ██╗  ██╗██████╗ ████████╗██╗   ███╗   ███╗███████╗
 ██╔═══██╗████╗  ██║██╔════╝████╗ ████║██╔═══██╗██║  ██║██╔══██╗╚══██╔══╝██║   ████╗ ████║██╔════╝
@@ -19,11 +21,11 @@ A bit about me: I’m a full-stack web developer at Mighty, and BFA graphic desi
 
 #### Web Languages
 
-- Markup-related: Twig (Craft CMS, Timber), HTML, PHP
-- Style-related: SCSS, LESS, Sass
-- Script-related: “vanilla” JavaScript & jQuery
-- CMS’s: Craft CMS, WordPress
-- As well as Git[Hub] for version control and NPM/Yarn for package management
+- Markup-related: [Twig](https://twig.symfony.com/) ([Craft CMS](https://craftcms.com/), [Timber](https://upstatement.com/timber/)), [HTML](https://html.spec.whatwg.org/), [PHP](https://www.php.net/)
+- Style-related: [SCSS](https://sass-lang.com/), [LESS](https://lesscss.org/)
+- Script-related: [“vanilla” JavaScript](https://www.javascript.com/) & [jQuery](https://jquery.com/)
+- CMS’s: [Craft CMS](https://craftcms.com/), [WordPress](https://wordpress.org/)
+- As well as Git[Hub] for version control and [Composer](https://getcomposer.org/)/[NPM](https://www.npmjs.com/) for package management
 
 ### Links of relevance
 
@@ -35,15 +37,11 @@ A bit about me: I’m a full-stack web developer at Mighty, and BFA graphic desi
 
 ### Stats of irrelavance
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-   <div style="flex: 0 1 40%; display: flex;">
-
-   [![Derek's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onemohrtime)](https://github.com/onemohrtime/github-readme-stats)
-
-   </div>
-   <div style="flex: 0 1 60%; display: flex;">
-
-   [![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=onemohrtime)](https://github.com/onemohrtime/github-readme-stats)
-
-   </div>
+<div style="width: 100%;">
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=onemohrtime&hide=stars&count_private=true&show_icons=true&title_color=ffc300&text_color=171401&border_color=171401&icon_color=ffc300" />
+   </a>
+   <a href="https://github.com/anuraghazra/convoychat">
+       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onemohrtime&layout=compact&hide=vue,php" />
+   </a>
 </div>
