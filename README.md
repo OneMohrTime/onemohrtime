@@ -21,7 +21,7 @@ A bit about me: I’m a full-stack web developer at Mighty, and BFA graphic desi
 
 ### Web Languages
 
-- Markup-related: [Twig](https://twig.symfony.com/) ([Craft CMS](https://craftcms.com/), [Timber](https://upstatement.com/timber/)), [HTML](https://html.spec.whatwg.org/), [PHP](https://www.php.net/)
+- Structure-related: [Twig](https://twig.symfony.com/) ([Craft CMS](https://craftcms.com/), [Timber](https://upstatement.com/timber/)), [HTML](https://html.spec.whatwg.org/), [PHP](https://www.php.net/)
 - Style-related: [SCSS](https://sass-lang.com/), [LESS](https://lesscss.org/)
 - Script-related: [“vanilla” JavaScript](https://www.javascript.com/) & [jQuery](https://jquery.com/)
 - CMS’s: [Craft CMS](https://craftcms.com/), [WordPress](https://wordpress.org/)
