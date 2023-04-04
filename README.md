@@ -30,6 +30,7 @@ A bit about me: I’m a full-stack web developer at Mighty, and BFA graphic desi
 ### Links of relevance
 
 - My Website: [https://onemohrti.me/](https://onemohrti.me/)
+- Grand Rapids Branding Co.: [https://grandrapidsbranding.co/](https://grandrapidsbranding.co/)
 - Mighty in the Midwest: [https://mightyinthemidwest.com/](https://mightyinthemidwest.com/)
 - Dribbble: [https://dribbble.com/onemohrtime/](https://dribbble.com/onemohrtime/)
 - Instagram: [https://www.instagram.com/onemohrtimedesign/](https://www.instagram.com/onemohrtimedesign/)
@@ -39,10 +40,10 @@ A bit about me: I’m a full-stack web developer at Mighty, and BFA graphic desi
 
 <div style="width: 100%;">
  <div style="display: flex;">
-   <a href="https://github.com/anuraghazra/github-readme-stats" style="display: block; width: 50%; float: left;">
+   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 1 50%;">
        <img align="top" src="https://github-readme-stats.vercel.app/api?username=onemohrtime&hide=stars&count_private=true&show_icons=true" />
    </a>
-   <a href="https://github.com/anuraghazra/convoychat" style="display: block; width: 50%; float: right;">
+   <a href="https://github.com/anuraghazra/convoychat" style="flex: 0 1 50%;">
        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onemohrtime&layout=compact&hide=vue,php" />
    </a>
  </div>
