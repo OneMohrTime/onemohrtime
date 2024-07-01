@@ -1,4 +1,4 @@
-# Developer for [@mightyinthemidwest](https://github.com/mightyinthemidwest/) by day,<br/>[Traveling](https://onemohrti.me/travel/) designer by night
+# Web Developer, Graphic Designer, Creative Something-something
 
 ![](https://komarev.com/ghpvc/?username=onemohrtime&color=ffc300)
 
@@ -16,7 +16,9 @@ follow my online adventures : https://instagram.com/onemohrtimedesign/
                             : https://github.com/OneMohrTime/
 ```
 
-A bit about me: I’m a full-stack web developer at Mighty, and BFA graphic designer. I’m based out of Grand Rapids, MI. I tend to refer to my title as a **Designer/Developer**, as I am fully versed in the latest front-end specs (even some back-end ones). I focus heavily on browser compatibility, mobile device compatibility, and web accessibility.
+A bit about me: I’ve run a gamut of “creative” job titles: Interaction Designer, Webmaster, Digital Media Designer, Front-end Developer, Marketing Assistant… yada yada. In my earlier years, I was much more of a “classic” designer. I created moodboards, banner ads, and web mockups; but I didn’t dive into anything further. Nowadays, I’ve learned that I actually prefer to be in the thick of it, especially if it’s front-end coding!
+
+I’ve now landed on developer by day and designer by night as the most accurate—or, least inaccurate—description of my day-to-day.
 
 ### Web Languages
 
