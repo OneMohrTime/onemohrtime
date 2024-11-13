@@ -31,8 +31,8 @@ I’ve now landed on developer by day and designer by night as the most accurate
 ### Links of relevance
 
 - My Website: [https://onemohrti.me/](https://onemohrti.me/)
+- My Shop: [https://shop.onemohrti.me/](https://shop.onemohrti.me/)
 - Grand Rapids Branding Co.: [https://grandrapidsbranding.co/](https://grandrapidsbranding.co/)
-- Mighty in the Midwest: [https://mightyinthemidwest.com/](https://mightyinthemidwest.com/)
 - Dribbble: [https://dribbble.com/onemohrtime/](https://dribbble.com/onemohrtime/)
 - Instagram: [https://www.instagram.com/onemohrtimedesign/](https://www.instagram.com/onemohrtimedesign/)
 - Twitter: [https://twitter.com/OneMohrTime](https://twitter.com/OneMohrTime)
